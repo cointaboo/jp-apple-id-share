@@ -127,4 +127,10 @@ App Store → 头像 → 账户 → 国家/地区，应显示 Japan。或者看�
 
 ---
 
+## 相关指南
+
+- [免费 Apple ID 共享账号使用指南](https://github.com/cointaboo/free-apple-id-share)
+- [Shadowrocket 共享账号 · 小火箭下载与配置](https://github.com/cointaboo/shadowrocket-shared-account)
+- [Apple ID 被锁定 / 已停用怎么办](https://github.com/cointaboo/apple-id-locked-fix)
+
 <sub>最后更新：2026-11-17</sub>
